@@ -1,4 +1,4 @@
-- 👋 Hello! it's me, Jonathan!!
+- 👋 Hello!, i'm Jonathan!!
 - 👀 I like code in JavaScript and Typescript, but my favorite language at the moment is Java!
 - 📒 I try to do or learn something new everyday since i start coding, because everyday you can work toward your objectives! 🎯
 - 💯 At the moment im coding in TypeScript, but the next month i'm gonna start with Spring Security!!
